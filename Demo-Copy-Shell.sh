@@ -2,20 +2,20 @@
 
 # Array of source directories
 SOURCE_DIRS=(
-    "/home/ubuntu/IMPL-1234/new/Amar/test.txt"
-    "/home/ubuntu/IMPL-1234/new/Manoj/test.txt1"
-    "/home/ubuntu/IMPL-1234/new/Madhuri/test.txt2"
-    "/home/ubuntu/IMPL-1234/new/Vishakha/test.txt3"
-    "/home/ubuntu/IMPL-1234/new/Lisa/test.txt4"
+    "/home/ubuntu/IMPL-1234/new/Amar/"
+    "/home/ubuntu/IMPL-1234/new/Manoj/"
+    "/home/ubuntu/IMPL-1234/new/Madhuri/"
+    "/home/ubuntu/IMPL-1234/new/Vishakha/"
+    "/home/ubuntu/IMPL-1234/new/Lisa/"
 )
 
 # Array of destination directories
 DEST_DIRS=(
-    "/home/ubuntu/webapps/Amar"
-    "/home/ubuntu/webapps/Manoj"
-    "/home/ubuntu/webapps/Madhuri"
-    "/home/ubuntu/webapps/Vishakha"
-    "/home/ubuntu/webapps/Lisa"
+    "/home/ubuntu/webapps/Amar/"
+    "/home/ubuntu/webapps/Manoj/"
+    "/home/ubuntu/webapps/Madhuri/"
+    "/home/ubuntu/webapps/Vishakha/"
+    "/home/ubuntu/webapps/Lisa/"
 )
 
 # Array of files to copy (10 files in total)
@@ -24,7 +24,7 @@ FILES=(
     "test.txt1"
     "test.txt2"
     "test.txt3"
-    "tets.txt4"
+    "test.txt4"
 
 )
 
