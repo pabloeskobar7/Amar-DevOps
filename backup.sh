@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author - Amar Gaikwad
+# Date - 24/02/2024
+
 # Specify the path where you want to create the main directory
 main_directory="/home/ubuntu/amar/snehal/"
 
