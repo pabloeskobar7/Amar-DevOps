@@ -20,7 +20,7 @@ DEST_DIRS=(
     "/home/ubuntu/webapps/Lisa/"
 )
 
-# Array of files to copy (10 files in total)
+# Array of files to copy
 FILES=(
     "test.txt"
     "test.txt1"
