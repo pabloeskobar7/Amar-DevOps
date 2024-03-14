@@ -1,4 +1,6 @@
 #!/bin/bash
+# Author - Amar Gaikwad
+# Date - 14/03/2024
 
 # Array of source directories
 SOURCE_DIRS=(
